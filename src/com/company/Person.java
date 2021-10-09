@@ -5,7 +5,7 @@ public class Person {
     protected String name;
     protected Phone phone;
     protected int yob;
-    
+
     public Person(String name, boolean male, int yob){
         this.name = name ;
         this.male = male ;
